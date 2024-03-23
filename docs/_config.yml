@@ -31,11 +31,11 @@ discordChannelID: 450428756855750666
 siteNav:
    - name: Server Map
      url: map
-#     newtab: true
-#   - name: Screenshots
-#     url: screenshots
-#   - name: About
-#     url: about
+     newtab: true
+   - name: Screenshots
+     url: screenshots
+   - name: About
+     url: about
 
 
 # Don't change anything below here, these are defaults set by GitHub Pages:
