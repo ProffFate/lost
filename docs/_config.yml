@@ -14,7 +14,7 @@ showinSearchEngines: true
 serverName: Moonrise MC
 serverDescription: A Minecraft server where we have lots of fun!
 serverIP: lost-chronicles.pp.ua:54236
-useBedrockForOnlineStatus: false
+useBedrockForOnlineStatus: true
 
 
 # Discord information
