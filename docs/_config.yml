@@ -11,9 +11,9 @@ showinSearchEngines: true
 
 
 # Set basic server info
-serverName: Moonrise MC
+serverName: Lost Chronicles
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: 195.95.147.160
+serverIP: lost-chronicles.pp.ua:54236
 useBedrockForOnlineStatus: false
 
 
