@@ -30,11 +30,11 @@ discordChannelID: 450428756855750666
 # 
 siteNav:
    - name: Мапа
-     url: https://map.lost-chronicles.pp.ua/
+     url: map.lost-chronicles.pp.ua
      newtab: true
-   - name: Screenshots
+   - name: Скріншоти
      url: screenshots
-   - name: About
+   - name: Про Сервер
      url: about
 
 
