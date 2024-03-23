@@ -4,7 +4,7 @@
 .then(data => {
     if (data.online == true) {
         #document.getElementById("serverVer").innerHTML = `Minecraft ${data.version} Server`;
-        document.getElementById("serverVer").innerHTML = `Minecraft 1.20.1 Server`;
+        #document.getElementById("serverVer").innerHTML = `Minecraft 1.20.1 Server`;
 
         // siteNav dependent
         {% if site.siteNav %}
