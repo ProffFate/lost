@@ -29,8 +29,8 @@ discordChannelID: 450428756855750666
 # #   newtab - Whether link should open in new tab
 # 
 siteNav:
-   - name: Server Map
-     url: map
+   - name: Мапа
+     url: https://map.lost-chronicles.pp.ua/
      newtab: true
    - name: Screenshots
      url: screenshots
