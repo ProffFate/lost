@@ -1,6 +1,6 @@
 ---
 layout: home
-navname: Home
+navname: Головна
 
 # Cells at the bottom of the page
 #cellLinks:
