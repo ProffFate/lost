@@ -9,7 +9,7 @@ function handleErrors(response) {
 }
 
 // Fetch API, mcsrvstat
-fetch("https://api.mcstatus.io/{% if site.useBedrockForOnlineStatus == true %}bedrock/{% endif %}v2/{{ site.serverIP }}")
+fetch("https://api.mcstatus.io/{% if site.useBedrockForOnlineStatus == true %}bedrock/{% endif %}v2/status/java/{{ site.serverIP }}")
     .then(handleErrors)
     .then(response => {
         return response.json();
