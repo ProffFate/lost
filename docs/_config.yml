@@ -14,7 +14,7 @@ showinSearchEngines: true
 # Set basic server info
 serverName: Lost Chronicles
 serverDescription: A Minecraft server where we have lots of fun!
-serverIP: play.lost-chronicles.pp.ua
+serverIP: lost-chronicles.pp.ua
 useBedrockForOnlineStatus: false
 
 
