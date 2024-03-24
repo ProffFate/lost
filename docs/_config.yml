@@ -15,6 +15,7 @@ showinSearchEngines: true
 serverName: Lost Chronicles
 serverDescription: A Minecraft server where we have lots of fun!
 serverIP: 195.95.147.160:54236
+serverIPCopy: lost-chronicles.pp.ua
 useBedrockForOnlineStatus: false
 
 
