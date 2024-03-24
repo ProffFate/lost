@@ -1,8 +1,8 @@
 # Set this website's info
 # Change "coffeebank" to your GitHub username
 # Change "moonrise" to your repository name
-url: "play.lost-chronicles.pp.ua"
-baseurl: "play.lost-chronicles.pp.ua"
+url: "https://play.lost-chronicles.pp.ua/"
+baseurl: "https://play.lost-chronicles.pp.ua/"
 siteIcon: /media/logo.jpeg
 mineIcon: /media/iconm.ico
 siteYear: 2024
