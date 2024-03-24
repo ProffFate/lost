@@ -5,19 +5,20 @@ navname: About
 
 # {{ site.serverName }}
 
-Moonrise is a simple, flexible template website for Minecraft servers.
-
-[GitHub](https://github.com/coffeebank/moonrise)
+Украънський сервер майнкрафт.
 
 
-# Terms of Use
 
-Moonrise MC is free for use [under the MIT license](https://github.com/coffeebank/moonrise).
+# Умови використання
+
+Зроблено на основі Moonrise MC, що є безкоштовним для використання [under the MIT license](https://github.com/coffeebank/moonrise).
+
+Усі інші матеріали розміщені на сайті належать Lost Chronicles, і будь яке їх використання без узгодження заборонено.
 
 
-# Privacy Policy
+# Політика конфіденційності
 
-This website does not collect any data, but third party integrations may collect data to provide a service.
+Цей веб-сайт не збирає жодних даних, але сторонні інтеграції можуть збирати дані для надання послуг.
 
-- Mcsrvstat.us: Displays Minecraft server status
-- Widgetbot: Displays Discord server preview
+- Mcsrvstat.us: Відображає статус сервера Minecraft
+- Widgetbot: Відображає попередній перегляд сервера Discord
