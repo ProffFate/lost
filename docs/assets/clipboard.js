@@ -1,5 +1,5 @@
 new ClipboardJS('p#serverIPCopy');
-var clipboard = new ClipboardJS('p#serverIPcopy');
+var clipboard = new ClipboardJS('p#serverIPCopy');
 var getsnack = document.getElementById("snackbar");
 
 clipboard.on('success', function(e) {
