@@ -1,6 +1,6 @@
 ---
 layout: page
-navname: Screenshots
+navname: Скріншоти
 ---
 
 <link href="{{ site.baseurl }}/assets/micromodal.custom.css" rel="stylesheet">
