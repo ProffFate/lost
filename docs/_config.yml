@@ -5,7 +5,7 @@ url: "https://lost-chronicles.pp.ua"
 baseurl: "https://lost-chronicles.pp.ua"
 siteIcon: /media/logo.jpeg
 siteYear: 2024
-siteFooterlink: home
+siteFooterlink: 
 showinSearchEngines: true
 # googleAnalyticsID: (uncomment to use)
 
