@@ -3,7 +3,7 @@
 # Change "moonrise" to your repository name
 url: "https://lost-chronicles.pp.ua"
 baseurl: "https://lost-chronicles.pp.ua"
-siteIcon: /media/logo.jpg
+siteIcon: /media/logo.jpeg
 siteYear: 2024
 siteFooterlink: /about
 showinSearchEngines: true
