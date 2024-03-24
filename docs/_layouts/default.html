@@ -54,7 +54,7 @@ layout: compress
                 <div class="text-base flex-grow text-right pb-1 lg:pb-0">
                     <!-- Home link only on lg -->
                     <a href="{{ site.baseurl }}/" rel="noopener" class="hidden lg:block lg:inline-block {% if page.navname == "Home" %}text-white{% else %}text-teal-200 hover:text-white{% endif %} mr-4">
-                        Home
+                        Головна
                     </a>
                     {% for nlink in site.siteNav %}
                         <a href="{{ site.baseurl }}/{{ nlink.url }}" rel="noopener" {% if nlink.newtab == true %}target="_blank" {% endif %}class="block inline-block {% if page.navname == nlink.name %}text-white{% else %}text-teal-200 hover:text-white{% endif %} mr-4">
@@ -79,8 +79,8 @@ layout: compress
 
         <!-- show loading for status API only if javascript is enabled -->
         <script>
-            document.getElementById("serverStatus").innerHTML = "Loading...";
-            document.getElementById("serverStatusM").innerHTML = "Loading...";
+            document.getElementById("serverStatus").innerHTML = "Завантаження...";
+            document.getElementById("serverStatusM").innerHTML = "Завантаження...";
         </script>
         {% endif %}
 
